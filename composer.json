@@ -1,0 +1,9 @@
+{
+  "autoload": {
+    "psr-4": {
+      "smarttsoft\\": "vendor/smarttsoft",
+      "app\\": "app"
+    }
+  },
+  "require": {}
+}
