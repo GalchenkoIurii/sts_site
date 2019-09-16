@@ -1,7 +1,7 @@
 {
   "autoload": {
     "psr-4": {
-      "smarttsoft\\": "vendor/smarttsoft",
+      "smarttsoft\\": "vendor/smarttsoft/core",
       "app\\": "app"
     }
   },
