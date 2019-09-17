@@ -5,4 +5,4 @@ require_once LIBS . '/functions.php';
 
 new \smarttsoft\App();
 
-throw new Exception('Page not found', 500);
+throw new Exception('Page not found!', 500);
